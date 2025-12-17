@@ -1,0 +1,18 @@
+{
+  "id": "Module4_Challenges",
+  "title": "Challenges, Limitations, and Ethical Considerations",
+  "description": "As Vision–Language–Action (VLA) systems advance and become more integrated into robotics, it is crucial to critically examine their challenges, inherent limitations, and the profound ethical implications they present. Moving from laboratory demonstrations to real-world deployment requires addressing issues of reliability, safety, interpretability, and societal impact. This chapter explores these critical considerations.",
+  "source": "@site/docs/Module4_Challenges.md",
+  "sourceDirName": ".",
+  "slug": "/Module4_Challenges",
+  "permalink": "/physical-ai-book/docs/Module4_Challenges",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Challenges, Limitations, and Ethical Considerations",
+    "sidebar_position": 8
+  }
+}

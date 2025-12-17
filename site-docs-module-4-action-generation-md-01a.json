@@ -1,0 +1,18 @@
+{
+  "id": "Module4_ActionGeneration",
+  "title": "Action Generation and Control in Embodied AI",
+  "description": "The ultimate goal of Physical AI and VLA systems is to enable robots to act effectively in the physical world. Action generation is the process by which a robot translates high-level goals, perceptions, and linguistic commands into a sequence of physical movements and interactions. This chapter delves into the principles and techniques behind generating and controlling robot actions, focusing on how embodied AI systems can achieve goal-directed behavior.",
+  "source": "@site/docs/Module4_ActionGeneration.md",
+  "sourceDirName": ".",
+  "slug": "/Module4_ActionGeneration",
+  "permalink": "/physical-ai-book/docs/Module4_ActionGeneration",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Action Generation and Control in Embodied AI",
+    "sidebar_position": 4
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "module-1/chapter-5",
+  "title": "ROS 2 Communication Patterns and Best Practices",
+  "description": "Effective communication between different parts of a robotic system is fundamental. ROS 2 provides several powerful communication mechanisms, each suited for different types of data exchange. Understanding these patterns—Topics, Services, and Actions—and employing best practices will lead to more robust, efficient, and maintainable robotic software.",
+  "source": "@site/docs/module-1/chapter-5.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/chapter-5",
+  "permalink": "/physical-ai-book/docs/module-1/chapter-5",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "ROS 2 Communication Patterns and Best Practices",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2 Packages and Workspaces",
+    "permalink": "/physical-ai-book/docs/module-1/chapter-4"
+  },
+  "next": {
+    "title": "Introduction to Gazebo Simulation for Robotics",
+    "permalink": "/physical-ai-book/docs/module-2/chapter-6"
+  }
+}

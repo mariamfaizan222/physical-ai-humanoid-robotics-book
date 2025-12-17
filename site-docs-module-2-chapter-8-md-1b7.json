@@ -1,0 +1,27 @@
+{
+  "id": "module-2/chapter-8",
+  "title": "Simulating Robot Sensors in Gazebo",
+  "description": "Real robots rely on a suite of sensors to perceive their environment and determine their own state. In simulation, accurately modeling these sensors is crucial for developing and testing algorithms that will eventually run on physical hardware. Gazebo provides robust support for simulating various sensors, allowing us to generate realistic data that mimics real-world conditions.",
+  "source": "@site/docs/module-2/chapter-8.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/chapter-8",
+  "permalink": "/physical-ai-book/docs/module-2/chapter-8",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Simulating Robot Sensors in Gazebo",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "URDF Modeling for Humanoid Robots",
+    "permalink": "/physical-ai-book/docs/module-2/chapter-7"
+  },
+  "next": {
+    "title": "Introduction to NVIDIA Isaac Sim",
+    "permalink": "/physical-ai-book/docs/module-3/chapter-9"
+  }
+}

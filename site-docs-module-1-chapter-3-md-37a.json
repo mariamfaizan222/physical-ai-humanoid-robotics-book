@@ -1,0 +1,26 @@
+{
+  "id": "module-1/chapter-3",
+  "title": "Chapter 3: ROS 2 Architecture",
+  "description": "What is ROS 2?",
+  "source": "@site/docs/module-1/chapter-3.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/chapter-3",
+  "permalink": "/physical-ai-book/docs/module-1/chapter-3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2: Sensor Systems",
+    "permalink": "/physical-ai-book/docs/module-1/chapter-2"
+  },
+  "next": {
+    "title": "ROS 2 Packages and Workspaces",
+    "permalink": "/physical-ai-book/docs/module-1/chapter-4"
+  }
+}

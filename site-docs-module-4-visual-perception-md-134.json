@@ -1,0 +1,18 @@
+{
+  "id": "Module4_VisualPerception",
+  "title": "Visual Perception for Robotics",
+  "description": "Vision is arguably the most crucial sense for robots operating in complex, unstructured environments. It allows them to perceive their surroundings, identify objects, understand spatial relationships, and navigate safely. This chapter delves into the principles of visual perception in robotics, covering various camera types, the processing of 2D and 3D visual data, and the concept of scene understanding, all essential for equipping robots with sight.",
+  "source": "@site/docs/Module4_VisualPerception.md",
+  "sourceDirName": ".",
+  "slug": "/Module4_VisualPerception",
+  "permalink": "/physical-ai-book/docs/Module4_VisualPerception",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Visual Perception for Robotics",
+    "sidebar_position": 2
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Module4_MultimodalFusion",
+  "title": "Multimodal Fusion: Connecting Vision, Language, and Action",
+  "description": "The true power of VLA systems lies not just in processing vision, language, or action independently, but in their ability to fuse these modalities. Multimodal fusion allows a robot to build a richer, more contextual understanding of its environment and tasks by integrating information from different sensory and cognitive streams. This chapter explores the importance and techniques of multimodal fusion, enabling robots to connect what they see, what they hear or read, and what they need to do.",
+  "source": "@site/docs/Module4_MultimodalFusion.md",
+  "sourceDirName": ".",
+  "slug": "/Module4_MultimodalFusion",
+  "permalink": "/physical-ai-book/docs/Module4_MultimodalFusion",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Multimodal Fusion: Connecting Vision, Language, and Action",
+    "sidebar_position": 5
+  }
+}

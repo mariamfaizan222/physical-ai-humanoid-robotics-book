@@ -1,0 +1,18 @@
+{
+  "id": "Module4_LanguageUnderstanding",
+  "title": "Language Understanding and Large Language Models in Robotics",
+  "description": "The ability for robots to understand and respond to natural human language is a cornerstone of intuitive human-robot interaction (HRI) and advanced task execution. This chapter explores the domain of language understanding in robotics, with a particular focus on the transformative impact of Large Language Models (LLMs). We will cover how robots can interpret commands, engage in dialogue, and leverage LLMs for complex reasoning and planning tasks.",
+  "source": "@site/docs/Module4_LanguageUnderstanding.md",
+  "sourceDirName": ".",
+  "slug": "/Module4_LanguageUnderstanding",
+  "permalink": "/physical-ai-book/docs/Module4_LanguageUnderstanding",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Language Understanding and Large Language Models in Robotics",
+    "sidebar_position": 3
+  }
+}

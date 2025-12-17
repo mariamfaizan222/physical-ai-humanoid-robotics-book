@@ -1,0 +1,174 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/physical-ai-book/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/physical-ai-book/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/physical-ai-book/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Introduction",
+              "path": "/physical-ai-book/docs/Introduction"
+            },
+            {
+              "id": "module-1/chapter-1",
+              "path": "/physical-ai-book/docs/module-1/chapter-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/chapter-2",
+              "path": "/physical-ai-book/docs/module-1/chapter-2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/chapter-3",
+              "path": "/physical-ai-book/docs/module-1/chapter-3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/chapter-4",
+              "path": "/physical-ai-book/docs/module-1/chapter-4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/chapter-5",
+              "path": "/physical-ai-book/docs/module-1/chapter-5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/chapter-6",
+              "path": "/physical-ai-book/docs/module-2/chapter-6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/chapter-7",
+              "path": "/physical-ai-book/docs/module-2/chapter-7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/chapter-8",
+              "path": "/physical-ai-book/docs/module-2/chapter-8",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/chapter-10",
+              "path": "/physical-ai-book/docs/module-3/chapter-10",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/chapter-11",
+              "path": "/physical-ai-book/docs/module-3/chapter-11",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/chapter-9",
+              "path": "/physical-ai-book/docs/module-3/chapter-9",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/chapter-13",
+              "path": "/physical-ai-book/docs/module-4/chapter-13",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/chapter-14",
+              "path": "/physical-ai-book/docs/module-4/chapter-14",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module1_IntroPhysicalAI",
+              "path": "/physical-ai-book/docs/Module1_IntroPhysicalAI"
+            },
+            {
+              "id": "Module1_ROSArchitecture",
+              "path": "/physical-ai-book/docs/Module1_ROSArchitecture"
+            },
+            {
+              "id": "Module1_ROSComm",
+              "path": "/physical-ai-book/docs/Module1_ROSComm"
+            },
+            {
+              "id": "Module1_ROSPackages",
+              "path": "/physical-ai-book/docs/Module1_ROSPackages"
+            },
+            {
+              "id": "Module1_SensorSystems",
+              "path": "/physical-ai-book/docs/Module1_SensorSystems"
+            },
+            {
+              "id": "Module2_DigitalTwin",
+              "path": "/physical-ai-book/docs/Module2_DigitalTwin"
+            },
+            {
+              "id": "Module3_NVIDIAIsaac",
+              "path": "/physical-ai-book/docs/Module3_NVIDIAIsaac"
+            },
+            {
+              "id": "Module4_ActionGeneration",
+              "path": "/physical-ai-book/docs/Module4_ActionGeneration"
+            },
+            {
+              "id": "Module4_Challenges",
+              "path": "/physical-ai-book/docs/Module4_Challenges"
+            },
+            {
+              "id": "Module4_FutureDirections",
+              "path": "/physical-ai-book/docs/Module4_FutureDirections"
+            },
+            {
+              "id": "Module4_LanguageUnderstanding",
+              "path": "/physical-ai-book/docs/Module4_LanguageUnderstanding"
+            },
+            {
+              "id": "Module4_MultimodalFusion",
+              "path": "/physical-ai-book/docs/Module4_MultimodalFusion"
+            },
+            {
+              "id": "Module4_TaskNavLLM",
+              "path": "/physical-ai-book/docs/Module4_TaskNavLLM"
+            },
+            {
+              "id": "Module4_UseCases",
+              "path": "/physical-ai-book/docs/Module4_UseCases"
+            },
+            {
+              "id": "Module4_VisualPerception",
+              "path": "/physical-ai-book/docs/Module4_VisualPerception"
+            },
+            {
+              "id": "Module4_VLA_Intro",
+              "path": "/physical-ai-book/docs/Module4_VLA_Intro"
+            },
+            {
+              "id": "Module4_VLAPipelines",
+              "path": "/physical-ai-book/docs/Module4_VLAPipelines"
+            },
+            {
+              "id": "Module4_VoiceControl",
+              "path": "/physical-ai-book/docs/Module4_VoiceControl"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/physical-ai-book/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

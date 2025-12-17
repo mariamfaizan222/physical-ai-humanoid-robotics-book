@@ -1,0 +1,18 @@
+{
+  "id": "Module1_SensorSystems",
+  "title": "Sensor Systems",
+  "description": "To perceive and interact with the physical world, any intelligent agent, especially a robot, must be equipped with sensing capabilities. Sensors are the robot's \"senses,\" providing the raw data from which it builds an understanding of its own state and its surrounding environment. This chapter explores the fundamental types of sensor systems critical for robotics, their principles of operation, and how they are represented and utilized within the ROS 2 framework.",
+  "source": "@site/docs/Module1_SensorSystems.md",
+  "sourceDirName": ".",
+  "slug": "/Module1_SensorSystems",
+  "permalink": "/physical-ai-book/docs/Module1_SensorSystems",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Sensor Systems",
+    "sidebar_position": 2
+  }
+}

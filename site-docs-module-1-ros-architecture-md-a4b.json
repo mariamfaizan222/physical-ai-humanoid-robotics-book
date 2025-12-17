@@ -1,0 +1,18 @@
+{
+  "id": "Module1_ROSArchitecture",
+  "title": "ROS 2 Architecture",
+  "description": "Understanding the underlying architecture of ROS 2 is crucial for designing, developing, and debugging complex robotic systems. ROS 2 is designed to be a flexible, distributed middleware that facilitates communication between various software components (nodes) running on potentially different machines. This chapter will explore the core components of the ROS 2 architecture and how they enable powerful robotic applications.",
+  "source": "@site/docs/Module1_ROSArchitecture.md",
+  "sourceDirName": ".",
+  "slug": "/Module1_ROSArchitecture",
+  "permalink": "/physical-ai-book/docs/Module1_ROSArchitecture",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "ROS 2 Architecture",
+    "sidebar_position": 3
+  }
+}

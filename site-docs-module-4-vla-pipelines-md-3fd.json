@@ -1,0 +1,18 @@
+{
+  "id": "Module4_VLAPipelines",
+  "title": "Vision–Language–Action Architectures and Pipelines",
+  "description": "The effective integration of visual perception, language understanding, and action generation is at the core of building intelligent embodied agents. This chapter explores the various architectural patterns and pipelines that enable Vision–Language–Action (VLA) systems, discussing how different components are connected and how data flows from raw sensory input to physical action. Understanding these architectures is key to designing sophisticated robots capable of complex, context-aware tasks.",
+  "source": "@site/docs/Module4_VLAPipelines.md",
+  "sourceDirName": ".",
+  "slug": "/Module4_VLAPipelines",
+  "permalink": "/physical-ai-book/docs/Module4_VLAPipelines",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Vision–Language–Action Architectures and Pipelines",
+    "sidebar_position": 6
+  }
+}

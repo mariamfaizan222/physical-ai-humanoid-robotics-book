@@ -1,0 +1,27 @@
+{
+  "id": "module-3/chapter-9",
+  "title": "Introduction to NVIDIA Isaac Sim",
+  "description": "As robotic systems become more complex and AI integration becomes standard, the need for highly realistic and scalable simulation platforms grows. NVIDIA Isaac Sim, built on the Omniverse platform, is a powerful, extensible, and photorealistic simulator designed to accelerate robotics development, testing, and AI training.",
+  "source": "@site/docs/module-3/chapter-9.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/chapter-9",
+  "permalink": "/physical-ai-book/docs/module-3/chapter-9",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "Introduction to NVIDIA Isaac Sim",
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Simulating Robot Sensors in Gazebo",
+    "permalink": "/physical-ai-book/docs/module-2/chapter-8"
+  },
+  "next": {
+    "title": "Advanced Humanoid Simulation in Isaac Sim",
+    "permalink": "/physical-ai-book/docs/module-3/chapter-10"
+  }
+}

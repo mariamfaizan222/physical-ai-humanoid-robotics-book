@@ -1,0 +1,27 @@
+{
+  "id": "module-1/chapter-4",
+  "title": "ROS 2 Packages and Workspaces",
+  "description": "In ROS 2, the fundamental unit of code organization and distribution is the package. Packages encapsulate related code, configuration files, launch files, and other resources. Understanding how to create, manage, and build these packages, along with the concept of workspaces, is crucial for any ROS 2 developer.",
+  "source": "@site/docs/module-1/chapter-4.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/chapter-4",
+  "permalink": "/physical-ai-book/docs/module-1/chapter-4",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "ROS 2 Packages and Workspaces",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: ROS 2 Architecture",
+    "permalink": "/physical-ai-book/docs/module-1/chapter-3"
+  },
+  "next": {
+    "title": "ROS 2 Communication Patterns and Best Practices",
+    "permalink": "/physical-ai-book/docs/module-1/chapter-5"
+  }
+}

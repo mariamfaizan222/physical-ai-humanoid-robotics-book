@@ -1,0 +1,18 @@
+{
+  "id": "Module4_TaskNavLLM",
+  "title": "Task Planning and Navigation with LLMs and Nav2",
+  "description": "To imbue humanoid robots with true autonomy, they must be capable of understanding high-level goals and executing complex sequences of actions in their environment. This requires a sophisticated integration of artificial intelligence for task decomposition and robust navigation systems for movement. This chapter explores how Large Language Models (LLMs) can be leveraged for intelligent task planning and how ROS 2's Navigation2 (Nav2) stack provides powerful capabilities for robot navigation, demonstrating how these components work together to enable advanced robot autonomy.",
+  "source": "@site/docs/Module4_TaskNavLLM.md",
+  "sourceDirName": ".",
+  "slug": "/Module4_TaskNavLLM",
+  "permalink": "/physical-ai-book/docs/Module4_TaskNavLLM",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Task Planning and Navigation with LLMs and Nav2",
+    "sidebar_position": 2
+  }
+}

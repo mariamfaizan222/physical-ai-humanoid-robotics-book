@@ -1,0 +1,27 @@
+{
+  "id": "module-4/chapter-13",
+  "title": "Implementing Voice Control with Whisper",
+  "description": "Enabling robots to understand and respond to natural human speech is a significant step towards more intuitive and accessible human-robot interaction (HRI). Voice control allows users to command robots using natural language, freeing them from complex interfaces. OpenAI's Whisper is a state-of-the-art, open-source Automatic Speech Recognition (ASR) system that excels at transcribing spoken language into text, even in challenging conditions.",
+  "source": "@site/docs/module-4/chapter-13.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/chapter-13",
+  "permalink": "/physical-ai-book/docs/module-4/chapter-13",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "title": "Implementing Voice Control with Whisper",
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Integrating ROS 2 with NVIDIA Isaac Sim",
+    "permalink": "/physical-ai-book/docs/module-3/chapter-11"
+  },
+  "next": {
+    "title": "Task Planning and Navigation with LLMs and Nav2",
+    "permalink": "/physical-ai-book/docs/module-4/chapter-14"
+  }
+}

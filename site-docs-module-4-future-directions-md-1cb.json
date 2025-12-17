@@ -1,0 +1,18 @@
+{
+  "id": "Module4_FutureDirections",
+  "title": "Future Directions of Vision–Language–Action Systems",
+  "description": "The field of Vision–Language–Action (VLA) systems is rapidly evolving, pushing the boundaries of what intelligent embodied agents can achieve. As current systems become more capable, researchers are exploring new frontiers that promise even more sophisticated robots. This chapter looks ahead, discussing the exciting future directions for VLA systems, anticipating advancements in their capabilities, architectures, and applications.",
+  "source": "@site/docs/Module4_FutureDirections.md",
+  "sourceDirName": ".",
+  "slug": "/Module4_FutureDirections",
+  "permalink": "/physical-ai-book/docs/Module4_FutureDirections",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "Future Directions of Vision–Language–Action Systems",
+    "sidebar_position": 9
+  }
+}

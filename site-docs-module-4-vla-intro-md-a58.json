@@ -1,0 +1,18 @@
+{
+  "id": "Module4_VLA_Intro",
+  "title": "Introduction to Vision–Language–Action (VLA) Systems",
+  "description": "The frontier of artificial intelligence is increasingly focused on creating agents that can understand and interact with the world in ways that are more intuitive and human-like. A key aspect of this endeavor is the development of Vision–Language–Action (VLA) systems. These systems aim to bridge the gap between perceiving the world visually, understanding human instructions expressed in natural language, and generating appropriate physical actions to fulfill those instructions. This chapter introduces VLA systems, explaining their core concepts, the challenges they address, and their transformative potential in robotics and embodied AI.",
+  "source": "@site/docs/Module4_VLA_Intro.md",
+  "sourceDirName": ".",
+  "slug": "/Module4_VLA_Intro",
+  "permalink": "/physical-ai-book/docs/Module4_VLA_Intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction to Vision–Language–Action (VLA) Systems",
+    "sidebar_position": 1
+  }
+}

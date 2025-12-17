@@ -1,0 +1,23 @@
+{
+  "id": "module-4/chapter-14",
+  "title": "Task Planning and Navigation with LLMs and Nav2",
+  "description": "To make humanoid robots truly useful, they must be able to understand high-level goals and autonomously navigate their environment to achieve them. This chapter explores how Large Language Models (LLMs) can be used for intelligent task planning, and how the ROS 2 Navigation2 (Nav2) stack enables sophisticated robot navigation.",
+  "source": "@site/docs/module-4/chapter-14.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/chapter-14",
+  "permalink": "/physical-ai-book/docs/module-4/chapter-14",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "title": "Task Planning and Navigation with LLMs and Nav2",
+    "sidebar_position": 14
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Implementing Voice Control with Whisper",
+    "permalink": "/physical-ai-book/docs/module-4/chapter-13"
+  }
+}

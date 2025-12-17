@@ -1,0 +1,18 @@
+{
+  "id": "Introduction",
+  "title": "Introduction",
+  "description": "The quest to build machines that can understand, interact with, and navigate our world with human-like dexterity and intelligence has long been a frontier of scientific and engineering ambition. Today, the convergence of advanced robotics, sophisticated artificial intelligence, and powerful simulation technologies is bringing this vision closer to reality. This book, \"Building Intelligent Humanoid Robots: From Simulation to Reality,\" is your comprehensive guide to this exciting interdisciplinary field.",
+  "source": "@site/docs/Introduction.md",
+  "sourceDirName": ".",
+  "slug": "/Introduction",
+  "permalink": "/physical-ai-book/docs/Introduction",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction",
+    "sidebar_position": 1
+  }
+}

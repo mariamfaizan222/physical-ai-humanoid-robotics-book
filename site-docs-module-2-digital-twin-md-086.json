@@ -1,0 +1,18 @@
+{
+  "id": "Module2_DigitalTwin",
+  "title": "Introduction to Digital Twins",
+  "description": "In the realm of robotics and AI, creating intelligent agents that can operate effectively in the physical world is paramount. A critical tool that bridges the gap between the virtual and physical domains is the Digital Twin. A Digital Twin is a dynamic, virtual representation of a physical asset, process, or system, constantly updated with real-time data. This chapter introduces the concept of Digital Twins, their components, and their profound implications for robotics development, simulation, and operational intelligence.",
+  "source": "@site/docs/Module2_DigitalTwin.md",
+  "sourceDirName": ".",
+  "slug": "/Module2_DigitalTwin",
+  "permalink": "/physical-ai-book/docs/Module2_DigitalTwin",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction to Digital Twins",
+    "sidebar_position": 1
+  }
+}

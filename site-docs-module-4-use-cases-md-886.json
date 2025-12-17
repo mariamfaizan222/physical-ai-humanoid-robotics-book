@@ -1,0 +1,18 @@
+{
+  "id": "Module4_UseCases",
+  "title": "Real-World Robotics Use Cases",
+  "description": "The integration of vision, language, and action capabilities is transforming robots from specialized tools into versatile agents capable of performing complex tasks in human-centric environments. This chapter explores practical, real-world applications where VLA systems are making a significant impact, covering advancements in navigation, manipulation, and human-robot interaction, and illustrating how these technologies are moving from research labs into our daily lives.",
+  "source": "@site/docs/Module4_UseCases.md",
+  "sourceDirName": ".",
+  "slug": "/Module4_UseCases",
+  "permalink": "/physical-ai-book/docs/Module4_UseCases",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Real-World Robotics Use Cases",
+    "sidebar_position": 7
+  }
+}

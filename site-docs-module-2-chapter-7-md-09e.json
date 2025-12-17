@@ -1,0 +1,27 @@
+{
+  "id": "module-2/chapter-7",
+  "title": "URDF Modeling for Humanoid Robots",
+  "description": "To simulate and control robots, especially complex ones like humanoids, we need a way to describe their physical structure, including their components, how they are connected, and their physical properties. The Unified Robot Description Format (URDF) is an XML-based file format used by ROS to represent a robot's kinematics and dynamics.",
+  "source": "@site/docs/module-2/chapter-7.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/chapter-7",
+  "permalink": "/physical-ai-book/docs/module-2/chapter-7",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "URDF Modeling for Humanoid Robots",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to Gazebo Simulation for Robotics",
+    "permalink": "/physical-ai-book/docs/module-2/chapter-6"
+  },
+  "next": {
+    "title": "Simulating Robot Sensors in Gazebo",
+    "permalink": "/physical-ai-book/docs/module-2/chapter-8"
+  }
+}

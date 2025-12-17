@@ -1,0 +1,18 @@
+{
+  "id": "Module1_ROSComm",
+  "title": "ROS 2 Communication Patterns and Best Practices",
+  "description": "Effective communication between the various software components (nodes) of a robotic system is paramount for its correct functioning. ROS 2 provides a robust and flexible middleware built on DDS (Data Distribution Service) that offers several communication paradigms: Topics, Services, and Actions. Each pattern is designed for specific types of interaction, and understanding when to use which, along with adhering to best practices, is key to building reliable and efficient robotic applications.",
+  "source": "@site/docs/Module1_ROSComm.md",
+  "sourceDirName": ".",
+  "slug": "/Module1_ROSComm",
+  "permalink": "/physical-ai-book/docs/Module1_ROSComm",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "ROS 2 Communication Patterns and Best Practices",
+    "sidebar_position": 5
+  }
+}

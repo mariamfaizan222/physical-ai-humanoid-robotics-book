@@ -1,0 +1,27 @@
+{
+  "id": "module-3/chapter-10",
+  "title": "Advanced Humanoid Simulation in Isaac Sim",
+  "description": "Building upon the introduction to NVIDIA Isaac Sim, this chapter delves into the advanced techniques for simulating humanoid robots within its high-fidelity environment. We will explore creating complex robot models, leveraging realistic physics, and simulating dynamic interactions essential for developing sophisticated humanoid behaviors.",
+  "source": "@site/docs/module-3/chapter-10.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/chapter-10",
+  "permalink": "/physical-ai-book/docs/module-3/chapter-10",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "Advanced Humanoid Simulation in Isaac Sim",
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to NVIDIA Isaac Sim",
+    "permalink": "/physical-ai-book/docs/module-3/chapter-9"
+  },
+  "next": {
+    "title": "Integrating ROS 2 with NVIDIA Isaac Sim",
+    "permalink": "/physical-ai-book/docs/module-3/chapter-11"
+  }
+}

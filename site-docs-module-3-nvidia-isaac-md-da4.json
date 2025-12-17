@@ -1,0 +1,18 @@
+{
+  "id": "Module3_NVIDIAIsaac",
+  "title": "Introduction to NVIDIA Isaac Sim",
+  "description": "In the journey to create intelligent, physically embodied robots, simulation is not merely a helpful tool; it is an indispensable cornerstone. As robotic systems grow more complex and AI integration becomes deeper, the need for high-fidelity, scalable, and versatile simulation environments escalates. NVIDIA Isaac Sim, built upon the powerful NVIDIA Omniverse platform, stands as a leading solution, accelerating robotic development, AI training, and the creation of sophisticated digital twins. This chapter introduces Isaac Sim, exploring its capabilities, advantages, and its role in the modern robotics development ecosystem.",
+  "source": "@site/docs/Module3_NVIDIAIsaac.md",
+  "sourceDirName": ".",
+  "slug": "/Module3_NVIDIAIsaac",
+  "permalink": "/physical-ai-book/docs/Module3_NVIDIAIsaac",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction to NVIDIA Isaac Sim",
+    "sidebar_position": 1
+  }
+}
